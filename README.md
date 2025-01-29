@@ -1,16 +1,17 @@
-# news_app
+# Flutter News App
 
-A new Flutter project.
+A Flutter app that fetches news articles from a free API and displays them in categories like Science, Financial, Sports, Economic, etc. If an article does not have an image, a default image is displayed.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Fetch News from API**: Fetches news articles from a free news API.
+- **Categories**: Displays news in categories like Science, Financial, Sports, Economic, etc.
+- **Default Image**: Displays a default image if an article does not have an image.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## The free API :
+_ https://newsapi.org/
+
